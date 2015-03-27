@@ -11,7 +11,7 @@
 
 namespace Markdown;
 
-use Radium\Hook;
+use Avalon\Hook;
 use Traq\Plugin;
 use ParsedownExtra;
 
